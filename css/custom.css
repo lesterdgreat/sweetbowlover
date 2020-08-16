@@ -1,0 +1,50 @@
+@media(max-width: 1026px) {
+  .custom-sidebar{
+    display: none;
+  }
+}
+
+.custom-font-sweetbowl-h3 {
+  color: #F8F8FF;
+  font-family: MisterGordon;
+  text-align: center;
+  font-size: 70px;
+  text-shadow: 1px 2px #E4E4FF;
+}
+
+.custom-card-img {
+
+}
+
+.custom-page-header {
+  /*background: linear-gradient(to right, #ff8484 0%, #ffffff 100%);*/
+  background-color: #FF8484;
+  opacity: 0.8
+}
+
+.custom-page-footer {
+  background-color: #FF8484;
+  opacity: 0.8
+}
+
+.custom-page-card:hover{
+  border-color: #FF8484;
+  border-radius: 5px;
+  border-style: outset;
+  transform: scale(1.05);
+}
+
+.custom-page-sidebar {
+  background: linear-gradient(to right, #ff8484 0%, #ffffff 100%);
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.custom-nav-menu .navbar .nav-item.active{
+  background-color: white;
+}
+
+.custom-page-body {
+  background-color: #F8F8FF;
+  margin-top: 10px;
+}
